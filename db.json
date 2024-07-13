@@ -50,5 +50,27 @@
             "categoria": "Data Science",
             "link": "https://www.youtube.com/watch?v=YhR7Zp8NUzE"
         }
+    ],
+     "categorias": [
+        {
+            "id": 1,
+            "titulo": "Frontend",
+            "color": "#7f11e0"
+        },
+        {
+            "id": 2,
+            "titulo": "Backend",
+            "color": "#43ff64d9"
+        },
+        {
+            "id": 3,
+            "titulo": "Innovación y gestión",
+            "color": "#776ef3"
+        },
+        {
+            "id": 4,
+            "titulo": "Data Science",
+            "color": "#f3a250"
+        }
     ]
 }
